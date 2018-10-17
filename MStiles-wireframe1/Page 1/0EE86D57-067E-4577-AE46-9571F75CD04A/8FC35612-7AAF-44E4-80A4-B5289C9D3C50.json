@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8FC35612-7AAF-44E4-80A4-B5289C9D3C50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39084256-2442-49CE-B713-501692D3940C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFE3909D-E548-440D-874B-D82E692FC106",
+    "height": 39,
+    "width": 271,
+    "x": 25,
+    "y": 300
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/infobox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10771F79-68E2-44BA-94F6-FBE29C4534E1",
+      "overrideName": "AB9C96AE-AA31-4FB9-8DC4-AFC4B6420F74_stringValue",
+      "value": "Username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABB9605D-CA93-4AC9-BCFB-C81886C9C89D",
+      "overrideName": "0C7FBEC4-4BE9-4AFD-82E7-FD0FB67071B7_stringValue",
+      "value": "XXXXX"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1BB9D92-D0C0-49EF-B762-5CDA7F70B13A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41E683BF-9E37-4D3A-8516-0584756E3DE6",
+  "verticalSpacing": 0
+}

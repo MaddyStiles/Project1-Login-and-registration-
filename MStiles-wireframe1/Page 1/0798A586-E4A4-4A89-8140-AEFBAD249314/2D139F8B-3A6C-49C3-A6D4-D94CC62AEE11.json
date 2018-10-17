@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "2D139F8B-3A6C-49C3-A6D4-D94CC62AEE11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 271,
+    "x": 23,
+    "y": 239
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/infobox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8301E4F1-4D38-4674-B190-9D3CFA133260",
+      "overrideName": "AB9C96AE-AA31-4FB9-8DC4-AFC4B6420F74_stringValue",
+      "value": "New password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E1A33B9-F214-4314-A719-3320E8BBEC78",
+      "overrideName": "0C7FBEC4-4BE9-4AFD-82E7-FD0FB67071B7_stringValue",
+      "value": "XXXXX"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41E683BF-9E37-4D3A-8516-0584756E3DE6",
+  "verticalSpacing": 0
+}
